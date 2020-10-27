@@ -7,7 +7,7 @@ chardet==3.0.4
 cliff==2.17.0
 cmd2==0.9.22
 colorama==0.4.3
-cryptography==2.8
+cryptography==3.2
 debtcollector==1.22.0
 decorator==4.4.1
 dogpile.cache==0.9.0
